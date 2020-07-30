@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'b4800fe5-b55d-42a6-9b5b-92ba5b18811c'
+  azureSubscription: 'AzureConnection'
 
   # Function app name
   functionAppName: 'autodeploytest'
