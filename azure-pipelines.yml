@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'AzureConnection'
 
   # Function app name
-  functionAppName: 'AzureKeyVaultFunctionApp1'
+  functionAppName: 'AzureKeyVaultDemoTest'
 
   # Agent VM image name
   #storage
@@ -33,7 +33,7 @@ variables:
   # configuration.baseApiUrlKey: 'configuration.baseApiUrl' 
 
   #Setting the configuration.baseApiUrlValue variables key
-  configuration.baseApiUrl: 'https://azurekeyvaultfunctionapp1.azurewebsites.net' 
+  configuration.baseApiUrl: 'https://azurekeyvaultdemotest.azurewebsites.net' 
   configuration.clientID: '8cd6319f-258c-4a1d-a522-29419d16debb' 
   configuration.authority: 'https://login.microsoftonline.com/8c3dad1d-b6bc-4f8b-939b-8263372eced6' 
   configuration.redirectUri: 'https://azurekeyvaultstorageacct.z24.web.core.windows.net/' 
