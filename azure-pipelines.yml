@@ -11,7 +11,7 @@ variables:
   azureSubscription: 'AzureConnection'
 
   # Function app name
-  functionAppName: 'azurekeyvaultfunctionapp1'
+  functionAppName: 'AzureKeyVaultFunctionApp1'
 
   # Agent VM image name
   #storage
